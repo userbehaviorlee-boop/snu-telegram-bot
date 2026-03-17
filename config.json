@@ -1,0 +1,18 @@
+{
+  "boards": [
+    {
+      "board_name": "서울대 공과대학",
+      "url": "https://eng.snu.ac.kr/snu/bbs/BMSR00004/list.do?menuNo=200176",
+      "parser_name": "engineering",
+      "enabled": true,
+      "max_items": 20
+    },
+    {
+      "board_name": "서울대 자연과학대학",
+      "url": "https://science.snu.ac.kr/news/announcement?sc=y",
+      "parser_name": "natural_sciences",
+      "enabled": true,
+      "max_items": 20
+    }
+  ]
+}
