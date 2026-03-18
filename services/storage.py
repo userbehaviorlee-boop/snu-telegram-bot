@@ -34,7 +34,7 @@ def load_seen_posts() -> dict[str, list[str]]:
         return {}
 
     try:
-        with open(SEEN_POSTS_FILE, "r", encoding="utf-8") as f:
+        with open(SEEN_POSTS_FILE, "r", encoding="utf-8-sig") as f:
             data = json.load(f)
         # 혹시 list 가 아닌 값이 들어있으면 무시
         if not isinstance(data, dict):
