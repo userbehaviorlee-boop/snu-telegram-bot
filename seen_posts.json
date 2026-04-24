@@ -68,7 +68,17 @@
     "https://eng.snu.ac.kr/view.do?boardId=6568&menuNo=200176",
     "https://eng.snu.ac.kr/view.do?boardId=6569&menuNo=200176",
     "https://eng.snu.ac.kr/view.do?boardId=6571&menuNo=200176",
-    "https://eng.snu.ac.kr/view.do?boardId=6573&menuNo=200176"
+    "https://eng.snu.ac.kr/view.do?boardId=6573&menuNo=200176",
+    "https://eng.snu.ac.kr/communication/notice/notice?md=v&bbsidx=6571",
+    "https://eng.snu.ac.kr/communication/notice/notice?md=v&bbsidx=6568",
+    "https://eng.snu.ac.kr/communication/notice/notice?md=v&bbsidx=6567",
+    "https://eng.snu.ac.kr/communication/notice/notice?md=v&bbsidx=6564",
+    "https://eng.snu.ac.kr/communication/notice/notice?md=v&bbsidx=6542",
+    "https://eng.snu.ac.kr/communication/notice/notice?md=v&bbsidx=6521",
+    "https://eng.snu.ac.kr/communication/notice/notice?md=v&bbsidx=6404",
+    "https://eng.snu.ac.kr/communication/notice/notice?md=v&bbsidx=6573",
+    "https://eng.snu.ac.kr/communication/notice/notice?md=v&bbsidx=6569",
+    "https://eng.snu.ac.kr/communication/notice/notice?md=v&bbsidx=6566"
   ],
   "서울대 자연과학대학": [
     "https://science.snu.ac.kr/news/announcement?md=v&bbsidx=5418",
@@ -113,6 +123,7 @@
     "https://science.snu.ac.kr/news/announcement?md=v&bbsidx=5454",
     "https://science.snu.ac.kr/news/announcement?md=v&bbsidx=5459",
     "https://science.snu.ac.kr/news/announcement?md=v&bbsidx=5460",
-    "https://science.snu.ac.kr/news/announcement?md=v&bbsidx=5461"
+    "https://science.snu.ac.kr/news/announcement?md=v&bbsidx=5461",
+    "https://science.snu.ac.kr/news/announcement?md=v&bbsidx=5463"
   ]
 }
